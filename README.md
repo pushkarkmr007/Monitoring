@@ -73,7 +73,7 @@ Feature adoption.
 | Business Metrics | Conversion, churn, adoption | User & business impact |
 
 
-💡 Interview Tip (EY/TCS context):  
+💡 Interview Tip
 When asked about metrics, always anchor your answer in Golden Signals + SLIs/SLOs/Error Budgets. Then expand into infra/app/business metrics depending on the scenario. For example:
 
 “If latency spikes, I’d check saturation (CPU/memory), error rates, and traffic volume. If it breaches the SLO, I’d calculate error budget consumption and decide whether to halt deployments.”
